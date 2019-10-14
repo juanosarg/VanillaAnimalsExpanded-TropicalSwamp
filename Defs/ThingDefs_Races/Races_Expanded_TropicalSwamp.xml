@@ -43,7 +43,7 @@
       </li>
     </comps>
     <race>
-      <body>QuadrupedAnimalWithClawsTailAndJowl</body>
+      <body>AEXP_LargeLizardlike</body>
       <herdAnimal>false</herdAnimal>
       <predator>true</predator>
       <maxPreyBodySize>2.0</maxPreyBodySize>
