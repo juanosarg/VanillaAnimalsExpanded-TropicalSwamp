@@ -74,10 +74,9 @@
         <li>
           <def>AnimalAdult</def>
           <minAge>0.3</minAge>
-          <soundWounded>AEXP_Pawn_Crocodile_Wounded</soundWounded>
-          <soundDeath>AEXP_Pawn_Crocodile_Death</soundDeath>
-          <soundCall>AEXP_Pawn_Crocodile_Call</soundCall>
-          <soundAngry>AEXP_Pawn_Crocodile_Angry</soundAngry>
+        
+          <soundCall>AEXP_Pawn_Alligator_Call</soundCall>
+          <soundAngry>AEXP_Pawn_Alligator_Angry</soundAngry>
         </li>
       </lifeStageAges>
       <soundMeleeHitPawn>Pawn_Melee_SmallScratch_HitPawn</soundMeleeHitPawn>
@@ -213,10 +212,10 @@
 				<li>
 					<def>AnimalAdult</def>
 					<minAge>0.5</minAge>
-					<soundWounded>Pawn_Cobra_Wounded</soundWounded>
-					<soundDeath>Pawn_Cobra_Death</soundDeath>
-					<soundCall>Pawn_Cobra_Call</soundCall>
-					<soundAngry>Pawn_Cobra_Angry</soundAngry>
+					<soundWounded>AEXP_Pawn_Anaconda_Wounded</soundWounded>
+					<soundDeath>AEXP_Pawn_Anaconda_Death</soundDeath>
+					<soundCall>AEXP_Pawn_Anaconda_Call</soundCall>
+					<soundAngry>AEXP_Pawn_Anaconda_Angry</soundAngry>
 				</li>
 			</lifeStageAges>
 			<soundMeleeHitPawn>Pawn_Melee_BigBash_HitPawn</soundMeleeHitPawn>

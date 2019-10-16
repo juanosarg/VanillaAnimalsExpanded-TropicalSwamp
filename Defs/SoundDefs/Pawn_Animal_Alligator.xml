@@ -2,14 +2,14 @@
 <Defs>
   
  <SoundDef>
-    <defName>AEXP_Pawn_Rattlesnake_Call</defName>  
+    <defName>AEXP_Pawn_Alligator_Call</defName>  
     <context>MapOnly</context>
     <eventNames />  
     <subSounds>
       <li>
         <grains>
           <li Class="AudioGrain_Folder">
-            <clipFolderPath>Pawns/Rattlesnake/Pawn_Rattlesnake_Call</clipFolderPath>
+            <clipFolderPath>Pawns/Alligator/Pawn_Alligator_Call</clipFolderPath>
           </li>
         </grains>      
         <volumeRange>
@@ -29,14 +29,14 @@
   </SoundDef>
 
   <SoundDef>
-    <defName>AEXP_Pawn_Rattlesnake_Angry</defName>  
+    <defName>AEXP_Pawn_Alligator_Angry</defName>  
     <context>MapOnly</context>
     <eventNames />  
     <subSounds>
       <li>
         <grains>
           <li Class="AudioGrain_Folder">
-            <clipFolderPath>Pawns/Rattlesnake/Pawn_Rattlesnake_Angry</clipFolderPath>
+            <clipFolderPath>Pawns/Alligator/Pawn_Alligator_Angry</clipFolderPath>
           </li>
         </grains>      
         <volumeRange>
